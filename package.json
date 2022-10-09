@@ -15,5 +15,11 @@
     "prettier-plugin-solidity": "^1.0.0-beta.24",
     "solhint": "^3.3.7",
     "solidity-coverage": "^0.8.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "@uma/common": "^2.21.0",
+    "@uma/contracts-node": "^0.3.8",
+    "@uma/core": "^2.29.0"
   }
 }
